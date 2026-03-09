@@ -1,9 +1,9 @@
-##Retail Sales Data Analysis (Excel)
+## Retail Sales Data Analysis (Excel)
 
 Project Overview
 This project analyzes an online retail dataset using Microsoft Excel to identify revenue patterns, top-performing products, and key customers.
 
-##Tools Used
+## Tools Used
 Microsoft Excel
 Pivot Tables
 Data Visualization
